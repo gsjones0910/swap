@@ -1,0 +1,5 @@
+{
+  "nuxt.isNuxtApp": false,
+  "debug.allowBreakpointsEverywhere": true,
+  "files.autoGuessEncoding": true
+}
